@@ -1,0 +1,5 @@
+.idea/*
+backend/.idea/*
+backend/node_modules/*
+front-end-app/.idea/*
+front-end-app/node_modules/*
